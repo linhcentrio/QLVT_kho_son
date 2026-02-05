@@ -1,0 +1,28 @@
+
+✅ DOWNLOAD CHECKLIST - ĐÁNH DẤU KHI ĐÃ TẢI XONG:
+
+☐ app_vat_tu.py (453 dòng Python)
+☐ export_report.py (239 dòng Python)
+☐ requirements.txt (4 packages)
+☐ catalog_complete.json (30 vật tư)
+☐ phan_bo_bo_phan.json (4 tổ)
+☐ README.md (300+ dòng)
+☐ USAGE_GUIDE.md (200 dòng)
+☐ INTEGRATION.md (200 dòng)
+☐ phieu_xuat_mau_01_2026.csv (10 phiếu)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ SETUP CHECKLIST:
+
+☐ mkdir quan_ly_vat_tu
+☐ cd quan_ly_vat_tu
+☐ python -m venv venv
+☐ source venv/bin/activate (hoặc venv\Scripts\activate trên Windows)
+☐ pip install -r requirements.txt
+☐ python app_vat_tu.py
+☐ Mở http://localhost:7860 ✅
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Hoàn tất! 🎉

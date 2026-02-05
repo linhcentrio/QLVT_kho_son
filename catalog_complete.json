@@ -1,0 +1,193 @@
+{
+  "catalog": [
+    {
+      "ma_hang": "410-48248",
+      "ten_hang": "Sơn lót chống gỉ",
+      "loai": "Sơn lót",
+      "don_gia": 471.417,
+      "don_vi_tinh": "đ/g"
+    },
+    {
+      "ma_hang": "D8046",
+      "ten_hang": "Sơn lót bề mặt",
+      "loai": "Sơn lót",
+      "don_gia": 448.38,
+      "don_vi_tinh": "đ/g"
+    },
+    {
+      "ma_hang": "SL",
+      "ten_hang": "Sơn lót nhanh khô PLĐ",
+      "loai": "Sơn lót",
+      "don_gia": 234,
+      "don_vi_tinh": "đ/g"
+    },
+    {
+      "ma_hang": "D863",
+      "ten_hang": "Đóng rắn nhanh khô",
+      "loai": "Đóng rắn",
+      "don_gia": 647.505,
+      "don_vi_tinh": "đ/g"
+    },
+    {
+      "ma_hang": "P210-926",
+      "ten_hang": "Đóng rắn chậm khô",
+      "loai": "Đóng rắn",
+      "don_gia": 406.392,
+      "don_vi_tinh": "đ/g"
+    },
+    {
+      "ma_hang": "ĐC",
+      "ten_hang": "Đông cứng sl PLĐ",
+      "loai": "Đóng rắn",
+      "don_gia": 388,
+      "don_vi_tinh": "đ/g"
+    },
+    {
+      "ma_hang": "P210-6901",
+      "ten_hang": "Đông cứng nhanh khô",
+      "loai": "Đóng rắn",
+      "don_gia": 504.94,
+      "don_vi_tinh": "đ/g"
+    },
+    {
+      "ma_hang": "D8112",
+      "ten_hang": "Dầu bóng nhanh khô",
+      "loai": "Dầu bóng",
+      "don_gia": 388.22,
+      "don_vi_tinh": "đ/g"
+    },
+    {
+      "ma_hang": "P190-625",
+      "ten_hang": "Dầu bóng chậm khô",
+      "loai": "Dầu bóng",
+      "don_gia": 364.52,
+      "don_vi_tinh": "đ/g"
+    },
+    {
+      "ma_hang": "PLĐ",
+      "ten_hang": "Dầu bóng Xcel",
+      "loai": "Dầu bóng",
+      "don_gia": 225,
+      "don_vi_tinh": "đ/g"
+    },
+    {
+      "ma_hang": "P190-6970",
+      "ten_hang": "Dầu bóng nhanh khô (khác)",
+      "loai": "Dầu bóng",
+      "don_gia": 216.216,
+      "don_vi_tinh": "đ/g"
+    },
+    {
+      "ma_hang": "GB0",
+      "ten_hang": "Màu đen",
+      "loai": "Màu sơn",
+      "don_gia": 734,
+      "don_vi_tinh": "đ/g"
+    },
+    {
+      "ma_hang": "DO",
+      "ten_hang": "Màu đỏ Fadil",
+      "loai": "Màu sơn",
+      "don_gia": 850,
+      "don_vi_tinh": "đ/g"
+    },
+    {
+      "ma_hang": "TRANG",
+      "ten_hang": "Màu trắng Fadil",
+      "loai": "Màu sơn",
+      "don_gia": 595,
+      "don_vi_tinh": "đ/g"
+    },
+    {
+      "ma_hang": "DENA",
+      "ten_hang": "Màu đen LuxA",
+      "loai": "Màu sơn",
+      "don_gia": 776,
+      "don_vi_tinh": "đ/g"
+    },
+    {
+      "ma_hang": "GUN",
+      "ten_hang": "Màu xanh",
+      "loai": "Màu sơn",
+      "don_gia": 655,
+      "don_vi_tinh": "đ/g"
+    },
+    {
+      "ma_hang": "1C0",
+      "ten_hang": "Màu vàng",
+      "loai": "Màu sơn",
+      "don_gia": 670,
+      "don_vi_tinh": "đ/g"
+    },
+    {
+      "ma_hang": "P80v",
+      "ten_hang": "Nhám vuông 70x198",
+      "loai": "Nhám",
+      "don_gia": 17800,
+      "don_vi_tinh": "đ/tờ"
+    },
+    {
+      "ma_hang": "P120v",
+      "ten_hang": "Nhám vuông 70x198",
+      "loai": "Nhám",
+      "don_gia": 14000,
+      "don_vi_tinh": "đ/tờ"
+    },
+    {
+      "ma_hang": "P240x",
+      "ten_hang": "Nhám xốp",
+      "loai": "Nhám",
+      "don_gia": 4900,
+      "don_vi_tinh": "đ/tờ"
+    },
+    {
+      "ma_hang": "P320",
+      "ten_hang": "Nhám tròn vàng 150mm",
+      "loai": "Nhám",
+      "don_gia": 6700,
+      "don_vi_tinh": "đ/tờ"
+    },
+    {
+      "ma_hang": "P80",
+      "ten_hang": "Nhám tròn vàng 150mm",
+      "loai": "Nhám",
+      "don_gia": 6300,
+      "don_vi_tinh": "đ/tờ"
+    },
+    {
+      "ma_hang": "P400",
+      "ten_hang": "Nhám tròn vàng 150mm",
+      "loai": "Nhám",
+      "don_gia": 6700,
+      "don_vi_tinh": "đ/tờ"
+    },
+    {
+      "ma_hang": "P1000",
+      "ten_hang": "Nhám tròn trắng 150mm",
+      "loai": "Nhám",
+      "don_gia": 8500,
+      "don_vi_tinh": "đ/tờ"
+    },
+    {
+      "ma_hang": "BDT",
+      "ten_hang": "Băng dính giấy",
+      "loai": "Băng dính",
+      "don_gia": 6500,
+      "don_vi_tinh": "đ/cuộn"
+    },
+    {
+      "ma_hang": "2600A",
+      "ten_hang": "Băng dính giấy 15mm",
+      "loai": "Băng dính",
+      "don_gia": 7300,
+      "don_vi_tinh": "đ/cuộn"
+    },
+    {
+      "ma_hang": "2600B",
+      "ten_hang": "Băng dính vàng 3N",
+      "loai": "Băng dính",
+      "don_gia": 6800,
+      "don_vi_tinh": "đ/cuộn"
+    }
+  ]
+}
